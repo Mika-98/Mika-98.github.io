@@ -33,7 +33,7 @@ a {
 h3 {
  text-align: center;
  background: BurlyWood;
- border: 2px solid DarkSlateBlue;
+ border: 2px solid SaddleBrown;
  border-radius: 20px;
  box-shadow: 0px 5px 5px LightSlateGray;
 }
@@ -67,7 +67,7 @@ video {
  border-radius: 20px;
  margin: auto;
  background: Bisque;
- border: 2px solid DarkSlateBlue;
+ border: 2px solid SaddleBrown;
  box-shadow: 0px 5px 5px LightSlateGray;
 }
 .no-styles {
